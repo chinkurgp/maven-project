@@ -21,5 +21,6 @@ stages{
             steps {
                 build job: 'deploy-to-staging'
             }
+		}
     }
 }
